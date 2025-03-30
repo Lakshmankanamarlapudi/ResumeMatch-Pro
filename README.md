@@ -12,7 +12,7 @@ ResumeMatch Pro is an AI-powered tool designed to help job seekers optimize thei
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Lakshmankanamarlapudi/ResumeMatch-Pro.git>
    cd ResumeMatchPro
    ```
 2. Install dependencies:
