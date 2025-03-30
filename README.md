@@ -44,6 +44,15 @@ ResumeMatch Pro is an AI-powered tool designed to help job seekers optimize thei
 - The application can be deployed on a cloud server or run locally.
 - Ensure all dependencies are installed before running the server.
 
+  
+## Open-Source Libraries & APIs Used
+- **Flask**: A lightweight WSGI web framework for Python, used to build the web application.
+- **scikit-learn**: A machine learning library for Python, used for TF-IDF vectorization and cosine similarity calculations.
+- **PyPDF2**: A library for extracting text from PDF files, used to process resume and job description documents.
+- **io**: A built-in Python module used for handling file streams.
+- **time**: A built-in Python module used for managing time-related tasks in the application.
+
+
 ## License
 This project is open-source and available under the MIT License.
 
